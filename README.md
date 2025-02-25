@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Meghna krishnan 👋  
+## MCA Graduate | Python Full Stack Developer | Educator  
 
-<!--
-**Meghnakrishnan/Meghnakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Skills  
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
+- **Backend:** Python (Django)  
+- **Database:** MySQL 
+- **Version Control:** Git, GitHub  
+   
 
-Here are some ideas to get you started:
+### 📌 Projects  
+1. **E-learning Platform** - A course management system  
+2. **Portfolio Website** - My personal Django-based portfolio  
+3. **Blog Application** - A simple CRUD-based blog  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Check out my projects on GitHub!**
